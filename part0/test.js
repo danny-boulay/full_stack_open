@@ -1,0 +1,1 @@
+console.log('Hello from part0/test.js');
